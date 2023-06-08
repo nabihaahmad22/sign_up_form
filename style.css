@@ -1,0 +1,26 @@
+.whole{
+	width: 400px;
+	background-color: #232535;
+	height: 380px;
+}
+.btn1,.btn2{
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding: 5px;
+	border-color: none;
+}
+th{
+	color: #CBBC42;
+}
+.term,.box{
+	margin-left:100px;
+	color:#CBBC42 ;
+}
+.btn1{
+	background-color: #75AD67;
+
+}
+.btn2{
+	background-color: #C95D54;
+}
